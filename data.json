@@ -1,0 +1,1671 @@
+{
+    "data" : [
+              {
+              "id" : "100002160726320_339414999473855",
+              "story" : "Rui Uesugi was tagged in Rumi  Hamada's photo.",
+              "actions" : [
+                           {
+                           "link" : "http:\/\/www.facebook.com\/100002160726320\/posts\/339414999473855",
+                           "name" : "Comment"
+                           },
+                           {
+                           "link" : "http:\/\/www.facebook.com\/100002160726320\/posts\/339414999473855",
+                           "name" : "Like"
+                           }
+                           ],
+              "link" : "http:\/\/www.facebook.com\/photo.php?fbid=281260995314618&set=at.216159518491433.47132.100002921587751.100002160726320&type=1&relevant_count=1",
+              "updated_time" : "2012-07-19T14:47:28+0000",
+              "type" : "photo",
+              "description" : "Áèç„Åó„ÅÑ„Ç≠„É£„É©„ÇÇÂêàÊµÅ„Åó„Å¶„ÄÅÊ¨°„ÅÆÂ∫ó„Å∏„Åç„Åæ„Åó„Åü„ÄÇ",
+              "object_id" : "281260995314618",
+              "application" : {
+              "id" : "2305272732",
+              "name" : "Photos"
+              },
+              "icon" : "https:\/\/s-static.ak.facebook.com\/rsrc.php\/v2\/yz\/r\/StEh3RhPvjk.gif",
+              "place" : {
+                  "id" : "385874668095069",
+                  "name" : "WINE ÔºÜ Belgian Beer Hemel „Éü„É§„Éû„Çπ",
+                  "location" : {
+                      "city" : "Shibuya-ku",
+                      "state" : "Tokyo",
+                      "zip" : "150-0002",
+                      "country" : "Japan",
+                      "latitude" : 35.659844203802,
+                      "longitude" : 139.70374652901,
+                      "street" : "Ê∏ãË∞∑1-12-7 CR-VITE 1F"
+                    }
+              },
+              "with_tags" : {
+                  "data" : [
+                            {
+                            "id" : "100002470290528",
+                            "name" : "Takumi Ogawa"
+                            }
+                            ]
+              },
+              "from" : {
+                "id" : "100002160726320",
+                "name" : "Rui Uesugi"
+              },
+              "picture" : "https:\/\/fbcdn-photos-a.akamaihd.net\/hphotos-ak-prn1\/553506_281260995314618_2071875372_s.jpg",
+              "story_tags" : {
+                  "0" : [
+                         {
+                         "type" : "user",
+                         "id" : 100002160726320,
+                         "name" : "Rui Uesugi",
+                         "length" : 10,
+                         "offset" : 0
+                         }
+                         ],
+                  "25" : [
+                          {
+                          "type" : "user",
+                          "id" : 100002921587751,
+                          "name" : "Rumi  Hamada",
+                          "length" : 12,
+                          "offset" : 25
+                          }
+                          ]
+              },
+              "created_time" : "2012-07-19T14:47:28+0000",
+              "likes" : {
+              "data" : [
+                        {
+                        "id" : "100004016651823",
+                        "name" : "Yuji  Asawo"
+                        }
+                        ],
+              "count" : 1
+              },
+              "comments" : {
+              "count" : 0
+              },
+              "to" : {
+              "data" : [
+                        {
+                        "id" : "100002470290528",
+                        "name" : "Takumi Ogawa"
+                        }
+                        ]
+              }
+              },
+              
+              {
+              "id" : "100000457990061_325253990901392",
+              "actions" : [
+                           {
+                           "link" : "http:\/\/www.facebook.com\/100000457990061\/posts\/325253990901392",
+                           "name" : "Comment"
+                           },
+                           {
+                           "link" : "http:\/\/www.facebook.com\/100000457990061\/posts\/325253990901392",
+                           "name" : "Like"
+                           }
+                           ],
+              "source" : "http:\/\/www.youtube.com\/v\/Mpm4FickXWA?version=3&autohide=1&autoplay=1",
+              "link" : "http:\/\/www.youtube.com\/watch?v=Mpm4FickXWA&feature=share",
+              "type" : "video",
+              "description" : "〓〓 プレイヤーの解像度を 720p か 1080p に変更して見て下さいね♪ 〓〓 このシリーズも動画がブロックされたり、消されたりする度に新作を追加し作り直してきましたが、自然なシチュエーションで作るにはネタ的に限界となりましたｗｗ これが最後のバージョンになると思います。 シリーズを通してご覧いただき本当に...",
+              "application" : {
+              "id" : "5085647995",
+              "name" : "Share_bookmarklet"
+              },
+              "icon" : "https:\/\/s-static.ak.facebook.com\/rsrc.php\/v2\/yj\/r\/v2OnaTyTQZE.gif",
+              "message" : "よー出来とるw",
+              "from" : {
+              "id" : "100000457990061",
+              "name" : "Kentaro Nitta"
+              },
+              "picture" : "https:\/\/fbexternal-a.akamaihd.net\/safe_image.php?d=AQAKtw3cil9kBQun&w=130&h=130&url=http0X1.A2F40000A966BP-916-1.9925540.000000i2.ytimg.com-1.992554vi0.000000Mpm4FickXWA0.000000mqdefault.jpg",
+              "name" : "【HD】 Perfume の ホットペッパーCM 大全集 （ Ver.5 ）",
+              "created_time" : "2012-07-19T08:23:21+0000",
+              "comments" : {
+              "count" : 0
+              },
+              "updated_time" : "2012-07-19T08:23:21+0000"
+              },
+              {
+              "id" : "720574559_444308615590072",
+              "actions" : [
+                           {
+                           "link" : "http:\/\/www.facebook.com\/720574559\/posts\/444308615590072",
+                           "name" : "Comment"
+                           },
+                           {
+                           "link" : "http:\/\/www.facebook.com\/720574559\/posts\/444308615590072",
+                           "name" : "Like"
+                           }
+                           ],
+              "link" : "http:\/\/bit.ly\/Mx9hMm",
+              "type" : "link",
+              "caption" : "docs.google.com",
+              "icon" : "https:\/\/s-static.ak.facebook.com\/rsrc.php\/v2\/yD\/r\/aS8ecmYRys0.gif",
+              "message" : "★ 花テック2012で、みなさんのサービス&ブランドのステッカーを配布するコーナーを設けます。ご希望の方は、以下ご登録の上、ご送付下さい。(100枚以下でお願いします)\n\n花テックステッカーギャザリング、参加お申し込み http:\/\/bit.ly\/Mx9hMm",
+              "from" : {
+              "id" : "720574559",
+              "name" : "Masaki Masuda"
+              },
+              "name" : "花テックステッカーギャザリング、参加お申し込み",
+              "comments" : {
+              "count" : 0
+              },
+              "created_time" : "2012-07-19T01:46:40+0000",
+              "likes" : {
+              "data" : [
+                        {
+                        "id" : "100001429819984",
+                        "name" : "Baba Miyuki"
+                        },
+                        {
+                        "id" : "1470494590",
+                        "name" : "Hiroyuki Koike"
+                        }
+                        ],
+              "count" : 2
+              },
+              "updated_time" : "2012-07-19T01:46:40+0000"
+              },
+              {
+              "id" : "7211826782_164225980379145",
+              "actions" : [
+                           {
+                           "link" : "http:\/\/www.facebook.com\/7211826782\/posts\/164225980379145",
+                           "name" : "Comment"
+                           },
+                           {
+                           "link" : "http:\/\/www.facebook.com\/7211826782\/posts\/164225980379145",
+                           "name" : "Like"
+                           }
+                           ],
+              "link" : "http:\/\/bit.ly\/tUlxMW",
+              "type" : "link",
+              "description" : "Get Sting 25 on the App Store. See screenshots and ratings, and read customer reviews.",
+              "caption" : "itunes.apple.com",
+              "icon" : "https:\/\/s-static.ak.facebook.com\/rsrc.php\/v2\/yD\/r\/aS8ecmYRys0.gif",
+              "shares" : {
+              "count" : 14
+              },
+              "message" : "Have you checked out the video of Sting and me performing \"Consider Me Gone\" \n at his 60th birthday? If not, download the FREE Sting iPad app now and watch exclusive clips from the all-star benefit concert here: http:\/\/bit.ly\/tUlxMW.",
+              "from" : {
+              "id" : "7211826782",
+              "name" : "Herbie Hancock",
+              "category" : "Musician\/band"
+              },
+              "picture" : "https:\/\/fbexternal-a.akamaihd.net\/safe_image.php?d=AQBzf91NJihAQZII&w=90&h=90&url=http0X1.27F100005DB78P-915-1.992661-6868132145816907655130429993275411022434937710691363707497334572792542172671964170549419984312774252158912865252478302599625855542463349696305867570215412119420375608641959802365260131806367470027350344074381598929413167437803978213699739640874571311918a1.mzstatic.com0.000000us0.000000r10000.0000001080.000000Purple0.0000005d0.000000d40.0000001f0.000000mzl.tagujrgw.175x175-75.jpg",
+              "name" : "Sting 25",
+              "created_time" : "2012-07-19T01:38:45+0000",
+              "likes" : {
+              "data" : [
+                        {
+                        "id" : "1119791748",
+                        "name" : "Alejandro Monk"
+                        },
+                        {
+                        "id" : "1215645289",
+                        "name" : "Alba Adrian Gibson"
+                        },
+                        {
+                        "id" : "576964092",
+                        "name" : "Pablo Germade Gallego"
+                        },
+                        {
+                        "id" : "100000655335619",
+                        "name" : "Izael Berry"
+                        }
+                        ],
+              "count" : 69
+              },
+              "comments" : {
+              "data" : [
+                        {
+                        "from" : {
+                        "id" : "584021392",
+                        "name" : "Russell Wright"
+                        },
+                        "id" : "7211826782_164225980379145_343333",
+                        "message" : "no i won't and you can't make me......",
+                        "created_time" : "2012-07-19T01:43:23+0000"
+                        },
+                        {
+                        "from" : {
+                        "id" : "813485573",
+                        "name" : "William Sousa"
+                        },
+                        "id" : "7211826782_164225980379145_343359",
+                        "message" : "\"Sting and me\" is the correct usage.",
+                        "created_time" : "2012-07-19T01:51:35+0000"
+                        }
+                        ],
+              "count" : 5
+              },
+              "updated_time" : "2012-07-19T01:51:35+0000"
+              },
+              {
+              "id" : "663238567_462178750473905",
+              "actions" : [
+                           {
+                           "link" : "http:\/\/www.facebook.com\/663238567\/posts\/462178750473905",
+                           "name" : "Comment"
+                           },
+                           {
+                           "link" : "http:\/\/www.facebook.com\/663238567\/posts\/462178750473905",
+                           "name" : "Like"
+                           }
+                           ],
+              "link" : "http:\/\/bloggingfrom.tv\/wp\/2012\/07\/19\/7636",
+              "type" : "link",
+              "description" : "タイトルは飛ばし気味に思われるかもしれませんがこれはかなり本気で、最近Skypeでやっているビジネスのやりとりはほんとチャットワークに全部\347\247\273行して欲しいなという願望を込めてのエントリー。",
+              "caption" : "bloggingfrom.tv",
+              "icon" : "https:\/\/s-static.ak.facebook.com\/rsrc.php\/v2\/yD\/r\/aS8ecmYRys0.gif",
+              "shares" : {
+              "count" : 5
+              },
+              "message" : "マジで、全員チャットワークになってほしい・・・。チャットワークないと生きていけない。\n\nhttp:\/\/bloggingfrom.tv\/wp\/2012\/07\/19\/7636",
+              "from" : {
+              "id" : "663238567",
+              "name" : "Kensuke Furukawa"
+              },
+              "picture" : "https:\/\/fbexternal-a.akamaihd.net\/safe_image.php?d=AQC1fl_T595-q1Vi&w=90&h=90&url=http0X1.F6DA01B5263CP-1024-1.9927900.000000farm9.staticflickr.com0.00000081470.0000007597981010_b8834e425d_z.jpg",
+              "name" : "仕事でのチャットはチャットワークが界王拳並みにはかどる件",
+              "created_time" : "2012-07-19T01:36:10+0000",
+              "likes" : {
+              "data" : [
+                        {
+                        "id" : "100000270310426",
+                        "name" : "Shinichi Ueda"
+                        },
+                        {
+                        "id" : "100000969915059",
+                        "name" : "Yusuke Santama Yamanaka"
+                        },
+                        {
+                        "id" : "1726253229",
+                        "name" : "Hiroyuki Terada"
+                        },
+                        {
+                        "id" : "1199141850",
+                        "name" : "Hiroki Kuwataka"
+                        }
+                        ],
+              "count" : 25
+              },
+              "comments" : {
+              "count" : 0
+              },
+              "updated_time" : "2012-07-19T01:36:10+0000"
+              },
+              {
+              "id" : "660358432_247626922023603",
+              "actions" : [
+                           {
+                           "link" : "http:\/\/www.facebook.com\/660358432\/posts\/247626922023603",
+                           "name" : "Like"
+                           }
+                           ],
+              "link" : "http:\/\/rocketnews24.com\/2012\/07\/19\/231815\/",
+              "type" : "link",
+              "description" : "大津市のいじめ問題で、いじめたとされる男子生徒やその親、教師の名前をブログで明かしたデヴィ夫人（デヴィ・スカルノさん）。当該ブログ記事は一時運営に非公\351\226\213措置をとられ、その後に名前を伏せたものの、コメントの一部を削除されるという事態になった。 このことに憤慨していたデヴィ夫人は、このほどメルマガの配信を決定。2012年7…",
+              "caption" : "rocketnews24.com",
+              "application" : {
+              "id" : "5085647995",
+              "name" : "Share_bookmarklet"
+              },
+              "icon" : "https:\/\/s-static.ak.facebook.com\/rsrc.php\/v2\/yD\/r\/aS8ecmYRys0.gif",
+              "message" : "やりかたがスマートなのかは別として出来る事をやる　伝えたいことを発信するのは素晴らしいと思います。\n有名人にしかアプローチ出来ないタイプの人々は多い",
+              "from" : {
+              "id" : "660358432",
+              "name" : "Satoshi Masuda"
+              },
+              "picture" : "https:\/\/fbexternal-a.akamaihd.net\/safe_image.php?d=AQBmuUIoduRYLZ4g&w=90&h=90&url=http0X1.A5CD04P-10480.0000000.000000sociorocketnews.files.wordpress.com0.00000020120.000000070.000000devi2.jpg",
+              "name" : "ブログ運営に激怒したデヴィ夫人がメルマガスタート「日本を良くするためたたかっていこう思います」",
+              "created_time" : "2012-07-19T01:21:58+0000",
+              "likes" : {
+              "data" : [
+                        {
+                        "id" : "100002198797523",
+                        "name" : "Atsushi Endo"
+                        },
+                        {
+                        "id" : "100001972076052",
+                        "name" : "小山幸子"
+                        },
+                        {
+                        "id" : "100001104395087",
+                        "name" : "Masanori Arayama"
+                        },
+                        {
+                        "id" : "100002458907903",
+                        "name" : "Yumi  Suyama"
+                        }
+                        ],
+              "count" : 4
+              },
+              "comments" : {
+              "count" : 0
+              },
+              "updated_time" : "2012-07-19T01:21:58+0000"
+              },
+              {
+              "id" : "1040937289_343300025747330",
+              "actions" : [
+                           {
+                           "link" : "http:\/\/www.facebook.com\/1040937289\/posts\/343300025747330",
+                           "name" : "Comment"
+                           },
+                           {
+                           "link" : "http:\/\/www.facebook.com\/1040937289\/posts\/343300025747330",
+                           "name" : "Like"
+                           }
+                           ],
+              "link" : "http:\/\/www.junkstage.com\/hiroko\/?p=6",
+              "type" : "link",
+              "description" : "Enchantée !Je m'appelle Hiroko TABUCHI.J'habite à Paris.Junk...",
+              "caption" : "www.junkstage.com",
+              "application" : {
+              "id" : "2309869772",
+              "name" : "Links"
+              },
+              "icon" : "https:\/\/s-static.ak.facebook.com\/rsrc.php\/v2\/yD\/r\/aS8ecmYRys0.gif",
+              "message" : "相当クレイジーな子です。",
+              "from" : {
+              "id" : "1040937289",
+              "name" : "Akihiko Ishihara"
+              },
+              "picture" : "https:\/\/fbexternal-a.akamaihd.net\/safe_image.php?d=AQCvlaOrHuF1WjWe&w=90&h=90&url=http0X1.4856000060326P-9140.000000-1.992867www.junkstage.com0.000000images0.000000prof0.000000hiroko.jpg",
+              "name" : "自己紹介 | お好み娘。奮闘記",
+              "created_time" : "2012-07-19T01:13:06+0000",
+              "likes" : {
+              "data" : [
+                        {
+                        "id" : "100000848337583",
+                        "name" : "Tomikazu Narukami"
+                        },
+                        {
+                        "id" : "1611116728",
+                        "name" : "Motohiro Kumagai"
+                        },
+                        {
+                        "id" : "100001125270589",
+                        "name" : "Jun Aoki"
+                        },
+                        {
+                        "id" : "1260228207",
+                        "name" : "Tetsuo Kobayashi"
+                        }
+                        ],
+              "count" : 5
+              },
+              "comments" : {
+              "data" : [
+                        {
+                        "from" : {
+                        "id" : "100000772128945",
+                        "name" : "Hiroko Okonomi Tabuchi"
+                        },
+                        "id" : "1040937289_343300025747330_2303107",
+                        "message" : "おほめいただきありがとう(棒読み\n四天王寺卒ですよー",
+                        "created_time" : "2012-07-19T01:41:25+0000"
+                        },
+                        {
+                        "from" : {
+                        "id" : "1040937289",
+                        "name" : "Akihiko Ishihara"
+                        },
+                        "id" : "1040937289_343300025747330_2303116",
+                        "message" : "なんで棒読みなの。\nクレイジーさでは類を見ないよ。いい意味で。",
+                        "created_time" : "2012-07-19T01:43:31+0000"
+                        }
+                        ],
+              "count" : 6
+              },
+              "updated_time" : "2012-07-19T01:43:31+0000"
+              },
+              {
+              "id" : "712506076_106081049538477",
+              "actions" : [
+                           {
+                           "link" : "http:\/\/www.facebook.com\/712506076\/posts\/106081049538477",
+                           "name" : "Comment"
+                           },
+                           {
+                           "link" : "http:\/\/www.facebook.com\/712506076\/posts\/106081049538477",
+                           "name" : "Like"
+                           }
+                           ],
+              "updated_time" : "2012-07-19T01:12:26+0000",
+              "link" : "http:\/\/media.looops.net\/gaiax\/2012\/07\/19\/facebook-search\/",
+              "type" : "link",
+              "description" : "皆さんはFacebookの検索機能って、使いにくいと思ったことはありませんか？友達がシェアしていた記事やページを探す時に使える便利な検索機能、外部検索サービスを一気に10個ご紹介します。",
+              "message_tags" : {
+              "64" : [
+                      {
+                      "type" : "user",
+                      "id" : "100000690845019",
+                      "name" : "Kazuaki Ide",
+                      "length" : 11,
+                      "offset" : 64
+                      }
+                      ]
+              },
+              "caption" : "media.looops.net",
+              "icon" : "https:\/\/s-static.ak.facebook.com\/rsrc.php\/v2\/yD\/r\/aS8ecmYRys0.gif",
+              "shares" : {
+              "count" : 14
+              },
+              "message" : "Facebook内の情報を外部から検索できることをご存知でしたか？それを10のテクニックとしてまとめた貴重な記事。ガイアックス Kazuaki Ideくんの、in the looop初投稿です。\nhttp:\/\/media.looops.net\/gaiax\/2012\/07\/19\/facebook-search\/",
+              "from" : {
+              "id" : "712506076",
+              "name" : "Toru Saito"
+              },
+              "picture" : "https:\/\/fbexternal-a.akamaihd.net\/safe_image.php?d=AQA45PEklhleoF8J&w=90&h=90&url=http-0X1.FE2D801BF0602P+00.0000000.000000media.looops.net0.000000wp-content0.000000uploads0.0000002012-1.992928070.00000001-185x107.png",
+              "name" : "これは便利！Facebook検索のストレスを軽減する、10の検索テクニック【ガイアックス】",
+              "created_time" : "2012-07-19T01:11:18+0000",
+              "likes" : {
+              "data" : [
+                        {
+                        "id" : "100002517678009",
+                        "name" : "Hiroko  Suidoubashi"
+                        },
+                        {
+                        "id" : "100002048441300",
+                        "name" : "Ai Chiba"
+                        },
+                        {
+                        "id" : "100001284130090",
+                        "name" : "Yuta Miki"
+                        },
+                        {
+                        "id" : "100001663521636",
+                        "name" : "Hiroshi Kume"
+                        }
+                        ],
+              "count" : 32
+              },
+              "comments" : {
+              "data" : [
+                        {
+                        "from" : {
+                        "id" : "100002098696771",
+                        "name" : "Hiroshi Wada"
+                        },
+                        "id" : "712506076_106081049538477_26129",
+                        "message" : "貴重な情報提供ありがとうございます。シ\343\202\247アしました。",
+                        "created_time" : "2012-07-19T01:12:26+0000"
+                        }
+                        ],
+              "count" : 1
+              },
+              "to" : {
+              "data" : [
+                        {
+                        "id" : "100000690845019",
+                        "name" : "Kazuaki Ide"
+                        }
+                        ]
+              }
+              },
+              {
+              "id" : "1181181213_306924789404579",
+              "actions" : [
+                           {
+                           "link" : "http:\/\/www.facebook.com\/1181181213\/posts\/306924789404579",
+                           "name" : "Comment"
+                           },
+                           {
+                           "link" : "http:\/\/www.facebook.com\/1181181213\/posts\/306924789404579",
+                           "name" : "Like"
+                           }
+                           ],
+              "link" : "http:\/\/frekul.com\/",
+              "type" : "link",
+              "description" : "フリクルは、ミュージシャンの皆様の「ファン増加」「動員アップ」「収益化」をお手伝いする無料サービスです。CDが売れない時代に必須とも言える、音楽活動の効率化を図ります。",
+              "caption" : "frekul.com",
+              "icon" : "https:\/\/s-static.ak.facebook.com\/rsrc.php\/v2\/yD\/r\/aS8ecmYRys0.gif",
+              "message" : "PC版フリクルにて「オンライン投げ銭」が可能になりました！アーティスト様は frekul.com\/ で「投げ銭のお礼設定」を行なってください（しないと投げ銭は受けられません）。リスナー様は、応援するアーティストのプロフィールページの「投げ銭をする」をクリック！",
+              "from" : {
+              "id" : "1181181213",
+              "name" : "Sakakibara Kentaro"
+              },
+              "name" : "フリクル｜あなたの音楽活動を、もっと効率化する",
+              "comments" : {
+              "count" : 0
+              },
+              "created_time" : "2012-07-19T01:11:09+0000",
+              "likes" : {
+              "data" : [
+                        {
+                        "id" : "720574559",
+                        "name" : "Masaki Masuda"
+                        },
+                        {
+                        "id" : "1035820238",
+                        "name" : "Takeshi Akutagawa"
+                        },
+                        {
+                        "id" : "734974189",
+                        "name" : "Masahiro Honda"
+                        },
+                        {
+                        "id" : "100001416420513",
+                        "name" : "Shinsuke Terada"
+                        }
+                        ],
+              "count" : 5
+              },
+              "updated_time" : "2012-07-19T01:11:09+0000"
+              },
+              {
+              "id" : "712506076_340711862670793",
+              "actions" : [
+                           {
+                           "link" : "http:\/\/www.facebook.com\/712506076\/posts\/340711862670793",
+                           "name" : "Comment"
+                           },
+                           {
+                           "link" : "http:\/\/www.facebook.com\/712506076\/posts\/340711862670793",
+                           "name" : "Like"
+                           }
+                           ],
+              "link" : "http:\/\/media.looops.net\/naoto\/2012\/07\/19\/muji_to_go_html5\/",
+              "type" : "link",
+              "description" : "無印良品が7月6日〜8月9日まで展開するキャンペーン「MUJI to GO ワールドツアーすごろく」。利用者数やソーシャルメディアのシェア数、HTML5による開発の裏側などについてお話を伺って来ました。",
+              "caption" : "media.looops.net",
+              "icon" : "https:\/\/s-static.ak.facebook.com\/rsrc.php\/v2\/yD\/r\/aS8ecmYRys0.gif",
+              "message" : "無印良品の最新キャンペーン「Muji to GO ワールドツアーすごろく」舞台裏の取材記事です。\nhttp:\/\/media.looops.net\/naoto\/2012\/07\/19\/muji_to_go_html5\/",
+              "from" : {
+              "id" : "712506076",
+              "name" : "Toru Saito"
+              },
+              "picture" : "https:\/\/fbexternal-a.akamaihd.net\/safe_image.php?d=AQCARJ2-4OhlBOgU&w=90&h=90&url=http0X1.77CD00006373EP-9180.0000000.000000media.looops.net0.000000wp-content0.000000uploads-1.9930502012-1.992958070.000000fc253bb6684a3e7adf6c1ad8d14b470b-185x107.png",
+              "name" : "【速報】無印良品最新キャンペーンの中間速報&HTML5開発の裏側",
+              "created_time" : "2012-07-19T01:07:35+0000",
+              "likes" : {
+              "data" : [
+                        {
+                        "id" : "100002122544750",
+                        "name" : "Hideaki Kata"
+                        },
+                        {
+                        "id" : "1456954008",
+                        "name" : "Kazue Fujita"
+                        },
+                        {
+                        "id" : "100001580931203",
+                        "name" : "Mori Satoshi"
+                        },
+                        {
+                        "id" : "1348342267",
+                        "name" : "Ikuma Mutobe"
+                        }
+                        ],
+              "count" : 7
+              },
+              "comments" : {
+              "count" : 0
+              },
+              "updated_time" : "2012-07-19T01:07:35+0000"
+              },
+              {
+              "id" : "586175751_418740528178495",
+              "actions" : [
+                           {
+                           "link" : "http:\/\/www.facebook.com\/586175751\/posts\/418740528178495",
+                           "name" : "Comment"
+                           },
+                           {
+                           "link" : "http:\/\/www.facebook.com\/586175751\/posts\/418740528178495",
+                           "name" : "Like"
+                           }
+                           ],
+              "link" : "http:\/\/d.hatena.ne.jp\/shi3z\/20120719\/1342659199",
+              "type" : "link",
+              "description" : "http:\/\/a1.sphotos.ak.fbcdn.net\/hphotos-ak-snc7\/389738_10151707694570752_291310087_n.jpg かつ進で一人..",
+              "caption" : "d.hatena.ne.jp",
+              "icon" : "https:\/\/s-static.ak.facebook.com\/rsrc.php\/v2\/yD\/r\/aS8ecmYRys0.gif",
+              "shares" : {
+              "count" : 1
+              },
+              "message" : "http:\/\/d.hatena.ne.jp\/shi3z\/20120719\/1342659199",
+              "from" : {
+              "id" : "586175751",
+              "name" : "Ryo Shimizu"
+              },
+              "picture" : "https:\/\/fbexternal-a.akamaihd.net\/safe_image.php?d=AQCzEe2BiD5lVfRn&w=90&h=90&url=http0X1.4898000F7E626P-9140.000000-1.992989a1.sphotos.ak.fbcdn.net0.000000hphotos-ak-snc70.000000389738_10151707694570752_291310087_n.jpg",
+              "name" : "湯島サーキット - UEI\/ARC shi3zの日記",
+              "created_time" : "2012-07-19T00:53:49+0000",
+              "likes" : {
+              "data" : [
+                        {
+                        "id" : "574903249",
+                        "name" : "Shuichi Shibukawa"
+                        },
+                        {
+                        "id" : "100002082468494",
+                        "name" : "Atsushi Hasebe"
+                        },
+                        {
+                        "id" : "1706275470",
+                        "name" : "Yutacar Ishizuki"
+                        }
+                        ],
+              "count" : 3
+              },
+              "comments" : {
+              "count" : 0
+              },
+              "updated_time" : "2012-07-19T00:53:49+0000"
+              },
+              {
+              "from" : {
+              "id" : "1666865675",
+              "name" : "Yoshihito Kuranuki"
+              },
+              "id" : "1666865675_3102196368331",
+              "message" : "オウンドメディアとコンテンツマーケティングは表裏一体だね。良質なコンテンツを持ってる企業が注目されてビジネスがうまくいく世界が良いと思う。",
+              "icon" : "https:\/\/fbcdn-photos-a.akamaihd.net\/photos-ak-snc7\/v85006\/23\/2231777543\/app_2_2231777543_2016407632.gif",
+              "actions" : [
+                           {
+                           "link" : "http:\/\/www.facebook.com\/1666865675\/posts\/3102196368331",
+                           "name" : "Comment"
+                           },
+                           {
+                           "link" : "http:\/\/www.facebook.com\/1666865675\/posts\/3102196368331",
+                           "name" : "Like"
+                           },
+                           {
+                           "link" : "https:\/\/twitter.com\/kuranuki?utm_source=fb&utm_medium=fb&utm_campaign=kuranuki&utm_content=225753465773764609",
+                           "name" : "@kuranuki on Twitter"
+                           }
+                           ],
+              "type" : "status",
+              "application" : {
+              "namespace" : "twitter",
+              "id" : "2231777543",
+              "name" : "Twitter"
+              },
+              "created_time" : "2012-07-19T00:46:35+0000",
+              "comments" : {
+              "count" : 0
+              },
+              "updated_time" : "2012-07-19T00:46:35+0000"
+              },
+              {
+              "id" : "1252573236_407783895944320",
+              "actions" : [
+                           {
+                           "link" : "http:\/\/www.facebook.com\/1252573236\/posts\/407783895944320",
+                           "name" : "Comment"
+                           },
+                           {
+                           "link" : "http:\/\/www.facebook.com\/1252573236\/posts\/407783895944320",
+                           "name" : "Like"
+                           }
+                           ],
+              "link" : "http:\/\/www.tabisora.com\/travel\/photo\/07bangladesh09\/ba09-5146.jpg",
+              "type" : "link",
+              "caption" : "www.tabisora.com",
+              "icon" : "https:\/\/s-static.ak.facebook.com\/rsrc.php\/v2\/yz\/r\/StEh3RhPvjk.gif",
+              "message" : "楽天の1号館と2号館を往復するリキシャビジネスを考えているんですが、だれか投資していただけないですか？ちなみにこぐのはオレを想定しています。\n2年後の上場を目指しています。\n\nイメージはこちら\nhttp:\/\/www.tabisora.com\/travel\/photo\/07bangladesh09\/ba09-5146.jpg",
+              "from" : {
+              "id" : "1252573236",
+              "name" : "Takao Ozawa"
+              },
+              "picture" : "https:\/\/fbexternal-a.akamaihd.net\/safe_image.php?d=AQC6BSarAHaxSmxn&w=90&h=90&url=http0X1.48C00018783CDP-914-1.993019-1.993050www.tabisora.com0.000000travel0.000000photo-1.99309507bangladesh090.000000ba09-5146.jpg",
+              "name" : "http:\/\/www.tabisora.com\/travel\/photo\/07bangladesh09\/ba09-5146.jpg",
+              "created_time" : "2012-07-19T00:44:42+0000",
+              "likes" : {
+              "data" : [
+                        {
+                        "id" : "1553515053",
+                        "name" : "Tetsuya Isozaki"
+                        },
+                        {
+                        "id" : "623017647",
+                        "name" : "Naoki Shibata"
+                        },
+                        {
+                        "id" : "1040937289",
+                        "name" : "Akihiko Ishihara"
+                        },
+                        {
+                        "id" : "100001411618542",
+                        "name" : "Takayasu Arai"
+                        }
+                        ],
+              "count" : 54
+              },
+              "comments" : {
+              "count" : 34
+              },
+              "updated_time" : "2012-07-19T00:44:42+0000"
+              },
+              {
+              "id" : "1782021080_324628347631749",
+              "actions" : [
+                           {
+                           "link" : "http:\/\/www.facebook.com\/1782021080\/posts\/324628347631749",
+                           "name" : "Comment"
+                           },
+                           {
+                           "link" : "http:\/\/www.facebook.com\/1782021080\/posts\/324628347631749",
+                           "name" : "Like"
+                           }
+                           ],
+              "link" : "http:\/\/www.aoyama-rikegaku.jp\/",
+              "type" : "link",
+              "caption" : "www.aoyama-rikegaku.jp",
+              "icon" : "https:\/\/s-static.ak.facebook.com\/rsrc.php\/v2\/yD\/r\/aS8ecmYRys0.gif",
+              "shares" : {
+              "count" : 1
+              },
+              "message" : "理系の女子で「リケジョ」というのが流行っている？（流行らせたい？）らしいです。青学がリケジョサイトをつ\343\201\217り、\nhttp:\/\/www.aoyama-rikegaku.jp\/\n講談社がリケジョポータルをつくり、\nhttp:\/\/www.rikejo.jp\/\n日経新聞電子版に記事（有料会員のみ）が出ていたので、へええと思いました。\nhttp:\/\/www.nikkei.com\/paper\/article\/?b=20120719&ng=DGKDZO43873380Y2A710C1TCQ000\n\n私が機械科の学生のときは男子120人で女子2人だったけど、今はもう少し増えてるのかしら。テクノロジーの世界に女子が増えるのはいいことだと思います！",
+              "from" : {
+              "id" : "1782021080",
+              "name" : "Hiromi Nakagawa"
+              },
+              "name" : "アオガクのリケガク。青山学院大学｜トップページ",
+              "comments" : {
+              "data" : [
+                        {
+                        "from" : {
+                        "id" : "1073120060",
+                        "name" : "Andy Matsubara"
+                        },
+                        "id" : "1782021080_324628347631749_1808889",
+                        "message" : "進学先として、農学部は最近人気高いそうですよ。",
+                        "created_time" : "2012-07-19T00:42:48+0000"
+                        },
+                        {
+                        "from" : {
+                        "id" : "100002680981006",
+                        "name" : "Kazutaka  Okidoi"
+                        },
+                        "id" : "1782021080_324628347631749_1808895",
+                        "message" : "『もーしかしーて広工大』\r\nのＣＭにもことしから女性が出てますね。",
+                        "created_time" : "2012-07-19T00:45:26+0000"
+                        }
+                        ],
+              "count" : 6
+              },
+              "created_time" : "2012-07-19T00:33:58+0000",
+              "likes" : {
+              "data" : [
+                        {
+                        "id" : "1637573493",
+                        "name" : "Masao Konda"
+                        },
+                        {
+                        "id" : "100001174864666",
+                        "name" : "Tetsuya Yamashita"
+                        },
+                        {
+                        "id" : "100001634158516",
+                        "name" : "Natsuki Ando"
+                        },
+                        {
+                        "id" : "100001932307688",
+                        "name" : "Hirota Morikawa"
+                        }
+                        ],
+              "count" : 24
+              },
+              "updated_time" : "2012-07-19T00:45:26+0000"
+              },
+              {
+              "id" : "161962970496484_265980613514430",
+              "actions" : [
+                           {
+                           "link" : "http:\/\/www.facebook.com\/161962970496484\/posts\/265980613514430",
+                           "name" : "Comment"
+                           },
+                           {
+                           "link" : "http:\/\/www.facebook.com\/161962970496484\/posts\/265980613514430",
+                           "name" : "Like"
+                           }
+                           ],
+              "link" : "http:\/\/blogos.com\/article\/43386\/?axis=g-0X1.FE38800F7E3FDP+01&p=1",
+              "type" : "link",
+              "description" : "松尾貴史氏（撮影：田野幸伸）  写真一覧    松尾貴史氏が企画・総合演出・主演を務めるコメディCG",
+              "caption" : "blogos.com",
+              "icon" : "https:\/\/s-static.ak.facebook.com\/rsrc.php\/v2\/yD\/r\/aS8ecmYRys0.gif",
+              "shares" : {
+              "count" : 3
+              },
+              "message" : "BLOGOSをご愛読いただいている、松尾貴史さんへのインタビュー。\n社会を風刺する、というのがどういうことなのか、じっくり伺いました。\n先日お亡くなりになった、フジテレビ元アナウンサーの塚越孝さんの思い出も聞かせてくださいました・・・\n\nhttp:\/\/blogos.com\/article\/43386\/",
+              "from" : {
+              "id" : "161962970496484",
+              "name" : "Ld_BLOGOS",
+              "category" : "Website"
+              },
+              "picture" : "https:\/\/fbexternal-a.akamaihd.net\/safe_image.php?d=AQCYZoBKkzfJhR2s&w=90&h=90&url=http0X1.2C0340179F92AP-9080.0000000.000000static.blogos.com0.000000media0.000000article0.000000433860.000000ref_s.jpg",
+              "name" : "首相が３代「大嘘つき」　現実がギャグを超えている－松尾貴史インタビュー (1\/3)（BLOGOS編集部） - BLOGOS（ブロゴス）",
+              "created_time" : "2012-07-19T00:32:36+0000",
+              "likes" : {
+              "data" : [
+                        {
+                        "id" : "100003048647775",
+                        "name" : "Satoru  Yashiro"
+                        },
+                        {
+                        "id" : "100003560234067",
+                        "name" : "Masato  Hakamatsuka"
+                        },
+                        {
+                        "id" : "100002528830980",
+                        "name" : "Noriko  Yodogawa"
+                        },
+                        {
+                        "id" : "1323579010",
+                        "name" : "Akiko Iwasaki"
+                        }
+                        ],
+              "count" : 15
+              },
+              "comments" : {
+              "count" : 0
+              },
+              "updated_time" : "2012-07-19T00:32:36+0000"
+              },
+              {
+              "id" : "143718759008710_404854949561755",
+              "actions" : [
+                           {
+                           "link" : "http:\/\/www.facebook.com\/143718759008710\/posts\/404854949561755",
+                           "name" : "Comment"
+                           },
+                           {
+                           "link" : "http:\/\/www.facebook.com\/143718759008710\/posts\/404854949561755",
+                           "name" : "Like"
+                           }
+                           ],
+              "link" : "http:\/\/www.facebook.com\/photo.php?fbid=404854932895090&set=a.147462221967697.24339.143718759008710&type=1&relevant_count=1",
+              "type" : "photo",
+              "object_id" : "404854932895090",
+              "icon" : "https:\/\/s-static.ak.facebook.com\/rsrc.php\/v2\/yz\/r\/StEh3RhPvjk.gif",
+              "shares" : {
+              "count" : 16
+              },
+              "message" : "おはようございます。宇和島市地域づくりマネージャーの冨田です。\r\nいよいよ夏本番、宇和島の夏は四国3大祭りの１つといわれる「うわじま牛鬼（うしおに）まつり」で幕を開けます(7\/22～24日開催）☆\r\n長い首と鬼面の頭、剣をかたどった尻尾を持ち、大きな体全体をシュロや赤い布で覆われた「牛鬼」。\r\n20人以上の男衆が担いで町を練り歩き、家々の玄関に首を突っ込み、厄払いと家内安全をしてくれると言われています。\r\n\r\nANAの青い牛鬼がこの祭りに参加して6年目♪毎年、多くの社員が祭りを盛り上げにやってきます。\r\n今の時期は、牛鬼の体作りでどの町の人たちも大忙し！訪れた多くのお客様をもてなすため、女性たちも町を紹介する「うわじまんMAP」作りに大活躍です。このMAPで\343\201\257、大勢の面白い人たちもご紹介しています。是非、あったかくて、明るくて、楽しい宇和島の人たちとふれあい、癒しの時間をお過ごしください♪",
+              "from" : {
+              "id" : "143718759008710",
+              "name" : "ANA.Japan",
+              "category" : "Transport\/freight"
+              },
+              "picture" : "https:\/\/fbcdn-photos-a.akamaihd.net\/hphotos-ak-prn1\/561158_404854932895090_813962090_s.jpg",
+              "comments" : {
+              "data" : [
+                        {
+                        "from" : {
+                        "id" : "100003537687447",
+                        "name" : "Masato Umeoka"
+                        },
+                        "id" : "143718759008710_404854949561755_1002839",
+                        "message" : "メジャーなお祭りになっているのですね(^_-)30数年前はローカルな小さなお祭りだった思い出です(笑)懐かしいし、ANAで取り上げられては嬉しいですね～～。時間があればＢ-787に飛び乗ってすぐに行きたいです。",
+                        "created_time" : "2012-07-19T01:45:51+0000"
+                        },
+                        {
+                        "from" : {
+                        "id" : "100002287950552",
+                        "name" : "Shingo Ninomiya"
+                        },
+                        "id" : "143718759008710_404854949561755_1002849",
+                        "message" : "宇和島といえば、丸水（がんすい）の鯛めしですね。",
+                        "created_time" : "2012-07-19T01:52:05+0000"
+                        }
+                        ],
+              "count" : 15
+              },
+              "created_time" : "2012-07-19T00:24:08+0000",
+              "likes" : {
+              "data" : [
+                        {
+                        "id" : "100003266766501",
+                        "name" : "Takayuki Ono"
+                        },
+                        {
+                        "id" : "100003323332583",
+                        "name" : "Yasunori Yokoyama"
+                        },
+                        {
+                        "id" : "100003277397396",
+                        "name" : "Hideki Maekawa"
+                        },
+                        {
+                        "id" : "100002401453776",
+                        "name" : "Hideo Akamatsu"
+                        }
+                        ],
+              "count" : 882
+              },
+              "updated_time" : "2012-07-19T01:52:05+0000"
+              },
+              {
+              "id" : "140633259300743_333254000096041",
+              "actions" : [
+                           {
+                           "link" : "http:\/\/www.facebook.com\/140633259300743\/posts\/333254000096041",
+                           "name" : "Comment"
+                           },
+                           {
+                           "link" : "http:\/\/www.facebook.com\/140633259300743\/posts\/333254000096041",
+                           "name" : "Like"
+                           }
+                           ],
+              "link" : "http:\/\/www.lifehacker.jp\/2012\/07\/120718sayonara00.html",
+              "type" : "link",
+              "description" : " ウェブサイトなどを見ていると、時々全角英数字で書かれている文章を見かけます。少しくらいであれば気に",
+              "caption" : "www.lifehacker.jp",
+              "icon" : "https:\/\/s-static.ak.facebook.com\/rsrc.php\/v2\/yD\/r\/aS8ecmYRys0.gif",
+              "shares" : {
+              "count" : 1
+              },
+              "message" : "これでプログラマの命も救われる。",
+              "from" : {
+              "id" : "140633259300743",
+              "name" : "ライフハッカー[日本版]",
+              "category" : "Computers\/internet"
+              },
+              "picture" : "https:\/\/fbexternal-a.akamaihd.net\/safe_image.php?d=AQDKovwvw6vm625N&w=90&h=90&url=http-0X1.FE3D806D3A9F4P+00.0000000.000000www.lifehacker.jp0.000000assets_c-1.99315620120.000000070.000000120718sayonara00-thumb-160x160.jpg",
+              "name" : "ウェブの全角文字を自動で半角文字に自動変換する『さよなら全角英数』",
+              "created_time" : "2012-07-19T00:23:05+0000",
+              "likes" : {
+              "data" : [
+                        {
+                        "id" : "100002077916276",
+                        "name" : "Kenta Suzuki"
+                        },
+                        {
+                        "id" : "100003346078802",
+                        "name" : "Yoko Tsukamoto"
+                        },
+                        {
+                        "id" : "100001344518022",
+                        "name" : "Atsushi Saito"
+                        },
+                        {
+                        "id" : "100002190118964",
+                        "name" : "Koji Nakanishi"
+                        }
+                        ],
+              "count" : 41
+              },
+              "comments" : {
+              "count" : 0
+              },
+              "updated_time" : "2012-07-19T00:23:05+0000"
+              },
+              {
+              "id" : "0_389111111149772",
+              "story" : "Takao Ozawa and 2 other people shared Hakuhodo Brand Design's photo.",
+              "properties" : [
+                              {
+                              "text" : "Hakuhodo Brand Design",
+                              "name" : "By",
+                              "href" : "http:\/\/www.facebook.com\/h.branddesign?ref=stream"
+                              }
+                              ],
+              "link" : "http:\/\/www.facebook.com\/photo.php?fbid=377034985695514&set=a.367734356625577.82220.154488897950125&type=1",
+              "type" : "photo",
+              "caption" : "【ワークショップをやる人なら知っておいて損はないコツ】\r\n～ Vol.02　模造紙の正しいはり方\r\n\r\n「正しいふせんのめくり方」をご紹介したところ\r\n予想以上に反響をいただきまして、\r\nスタッフもちょっとビックリしているこのシリーズ。\r\nあれくらい発見感のあるネタはさすがにないので、\r\nハードルを下げていただいて、\r\nごゆるりとお付き合いいただければと思いますが・・・。\r\n\r\nさて、ふせんと同じく、ワークショップの\r\n基本的なアイテムである模造紙。\r\nふせんをたくさん貼り付けたり、\r\n何日もまたぐプログラムで壁にはりつづけたりすると、\r\n「べろーん」とはがれてきやすいものですよね。\r\nというわけで今回は、比較的はがれにくくする、\r\n「模造紙の壁へのはり方」です。\r\n\r\n今回もうまく説明できていますかどうか・・・\r\n言葉足らず図のわかりにくさ等ご容赦ください。\r\n是非みなさまのコメントでフォローしてくださいませ！",
+              "object_id" : "377034985695514",
+              "icon" : "https:\/\/s-static.ak.facebook.com\/rsrc.php\/v2\/yD\/r\/aS8ecmYRys0.gif",
+              "from" : {
+              "id" : "1252573236",
+              "name" : "Takao Ozawa"
+              },
+              "picture" : "https:\/\/fbcdn-photos-a.akamaihd.net\/hphotos-ak-prn1\/559129_377034985695514_1620666241_s.jpg",
+              "name" : "Wall Photos",
+              "story_tags" : {
+              "16" : [
+                      {
+                      "type" : "user",
+                      "id" : 1040937289,
+                      "name" : "Akihiko Ishihara",
+                      "length" : 14,
+                      "offset" : 16
+                      },
+                      {
+                      "type" : "user",
+                      "id" : 1803062772,
+                      "name" : "Nakata Kazue",
+                      "length" : 14,
+                      "offset" : 16
+                      }
+                      ],
+              "0" : [
+                     {
+                     "type" : "user",
+                     "id" : 1252573236,
+                     "name" : "Takao Ozawa",
+                     "length" : 11,
+                     "offset" : 0
+                     }
+                     ],
+              "38" : [
+                      {
+                      "type" : "page",
+                      "id" : 154488897950125,
+                      "name" : "Hakuhodo Brand Design",
+                      "length" : 21,
+                      "offset" : 38
+                      }
+                      ]
+              },
+              "created_time" : "2012-07-19T00:20:07+0000",
+              "comments" : {
+              "count" : 0
+              },
+              "updated_time" : "2012-07-19T00:20:07+0000"
+              },
+              {
+              "icon" : "https:\/\/s-static.ak.facebook.com\/rsrc.php\/v2\/yD\/r\/aS8ecmYRys0.gif",
+              "updated_time" : "2012-07-19T01:39:57+0000",
+              "properties" : [
+                              {
+                              "text" : "Hakuhodo Brand Design",
+                              "name" : "By",
+                              "href" : "http:\/\/www.facebook.com\/h.branddesign?ref=stream"
+                              }
+                              ],
+              "actions" : [
+                           {
+                           "link" : "http:\/\/www.facebook.com\/1252573236\/posts\/389111111149772",
+                           "name" : "Comment"
+                           },
+                           {
+                           "link" : "http:\/\/www.facebook.com\/1252573236\/posts\/389111111149772",
+                           "name" : "Like"
+                           }
+                           ],
+              "name" : "Wall Photos",
+              "type" : "photo",
+              "application" : {
+              "id" : "2309869772",
+              "name" : "Links"
+              },
+              "from" : {
+              "id" : "1252573236",
+              "name" : "Takao Ozawa"
+              },
+              "message" : "nanapiに収録したい。 古川 健介博報堂さんに相談してみては？",
+              "object_id" : "377034985695514",
+              "comments" : {
+              "data" : [
+                        {
+                        "from" : {
+                        "id" : "663238567",
+                        "name" : "Kensuke Furukawa"
+                        },
+                        "id" : "1252573236_389111111149772_3692119",
+                        "message" : "はい！さっそく連絡します！",
+                        "created_time" : "2012-07-19T01:07:21+0000"
+                        },
+                        {
+                        "from" : {
+                        "id" : "100001363296556",
+                        "name" : "Kensuke Sakamoto"
+                        },
+                        "id" : "1252573236_389111111149772_3692214",
+                        "message" : "シェアさせていただきます！",
+                        "created_time" : "2012-07-19T01:39:57+0000"
+                        }
+                        ],
+              "count" : 2
+              },
+              "id" : "1252573236_389111111149772",
+              "message_tags" : {
+              "14" : [
+                      {
+                      "type" : "user",
+                      "id" : "663238567",
+                      "name" : "古川 健介",
+                      "length" : 5,
+                      "offset" : 14
+                      }
+                      ]
+              },
+              "caption" : "【ワークショップをやる人なら知っておいて損はない\343\202\263ツ】\r\n～ Vol.02　模造紙の正しいはり方\r\n\r\n「正しいふせんのめくり方」をご紹介したところ\r\n予想以上に反響をいただきまして、\r\nスタッフもちょっとビックリしているこのシリーズ。\r\nあれくらい発見感のあるネタはさすがにないので、\r\nハードルを下げていただいて、\r\nごゆるりとお付き合いいただければと思いますが・・・。\r\n\r\nさて、ふせんと同じく、ワークショップの\r\n基本的なアイテムである模造紙。\r\nふせんをたくさん貼り付けたり、\r\n何日もまたぐプログラムで壁にはりつづけたりすると、\r\n「べろーん」とはがれてきやすいものですよね。\r\nというわけで今回は、比較的はがれにくくする、\r\n「模造紙の壁へのはり方」です。\r\n\r\n今回もうまく説明できていますかどうか・・・\r\n言葉足らず図のわかりにくさ等ご容赦ください。\r\n是非みなさまのコメントでフォローしてくださいませ！",
+              "to" : {
+              "data" : [
+                        {
+                        "id" : "663238567",
+                        "name" : "Kensuke Furukawa"
+                        }
+                        ]
+              },
+              "likes" : {
+              "data" : [
+                        {
+                        "id" : "1842648201",
+                        "name" : "Tetsuo Yamaguchi"
+                        },
+                        {
+                        "id" : "100002104372347",
+                        "name" : "Koji Ichiki"
+                        },
+                        {
+                        "id" : "1804106033",
+                        "name" : "Taiyo Kojima"
+                        },
+                        {
+                        "id" : "532796230",
+                        "name" : "Yoshi Hagiwara"
+                        }
+                        ],
+              "count" : 17
+              },
+              "shares" : {
+              "count" : 2
+              },
+              "story_tags" : {
+              "19" : [
+                      {
+                      "type" : "page",
+                      "id" : 154488897950125,
+                      "name" : "Hakuhodo Brand Design",
+                      "length" : 21,
+                      "offset" : 19
+                      }
+                      ],
+              "0" : [
+                     {
+                     "type" : "user",
+                     "id" : 1252573236,
+                     "name" : "Takao Ozawa",
+                     "length" : 11,
+                     "offset" : 0
+                     }
+                     ]
+              },
+              "link" : "http:\/\/www.facebook.com\/photo.php?fbid=377034985695514&set=a.367734356625577.82220.154488897950125&type=1",
+              "story" : "Takao Ozawa shared Hakuhodo Brand Design's photo.",
+              "picture" : "https:\/\/fbcdn-photos-a.akamaihd.net\/hphotos-ak-prn1\/559129_377034985695514_1620666241_s.jpg",
+              "created_time" : "2012-07-19T00:20:07+0000"
+              },
+              {
+              "id" : "114870808553071_434782046561944",
+              "actions" : [
+                           {
+                           "link" : "http:\/\/www.facebook.com\/114870808553071\/posts\/434782046561944",
+                           "name" : "Comment"
+                           },
+                           {
+                           "link" : "http:\/\/www.facebook.com\/114870808553071\/posts\/434782046561944",
+                           "name" : "Like"
+                           },
+                           {
+                           "link" : "http:\/\/www.facebook.com\/share.php?u=http0X1.761D0012FA699P-1003-1.9932480.000000bit.ly-1.993187NywXOE",
+                           "name" : "Share"
+                           }
+                           ],
+              "properties" : [
+                              {
+                              "text" : "TechCrunch Japan",
+                              "name" : "Source",
+                              "href" : "http:\/\/jp.techcrunch.com\/"
+                              }
+                              ],
+              "link" : "http:\/\/bit.ly\/NywXOE",
+              "type" : "link",
+              "description" : "決算発表シーズン真っ只中、Microsoftが正式発表した。待ちに待ったWindows 8オペレーティングシステムは2012年10月26日にやってくる。指折り数える人のために書くと、今から約14週間後だ。\n\nつい先日Microsoftが発表したWindows 8の発売時期は「10月下旬」で、それは喜ぶには十分な近さだったが、ずいぶんと不確かなスケジュールだった。しかし、Microsoftは日付を決定し、その日は10月26日だ。",
+              "application" : {
+              "namespace" : "rssgraffiti",
+              "id" : "45439413586",
+              "name" : "RSS Graffiti"
+              },
+              "icon" : "https:\/\/fbcdn-photos-a.akamaihd.net\/photos-ak-snc7\/v43\/70\/45439413586\/app_2_45439413586_6053.gif",
+              "from" : {
+              "id" : "114870808553071",
+              "name" : "TechCrunch Japan",
+              "category" : "Computers\/internet"
+              },
+              "picture" : "https:\/\/www.facebook.com\/app_full_proxy.php?app=45439413586&v=1&size=z&cksum=8db324dd36112ee29ab42cd80a1c5bf0&src=http0X1.013083C5P-1042-1.9932480.000000tctechcrunch2011.files.wordpress.com-1.99324820120.000000070.000000windows-8-metro.jpg",
+              "name" : "Windows 8の発売日は10月26日。マイクロソフトが正式発表",
+              "created_time" : "2012-07-19T00:04:25+0000",
+              "likes" : {
+              "data" : [
+                        {
+                        "id" : "100003312017020",
+                        "name" : "Michio Masuda"
+                        },
+                        {
+                        "id" : "1247477934",
+                        "name" : "Tsubasa Mochida"
+                        },
+                        {
+                        "id" : "100001500354103",
+                        "name" : "Nobuhiro Ohta"
+                        },
+                        {
+                        "id" : "100000901382664",
+                        "name" : "Keiji Goto"
+                        }
+                        ],
+              "count" : 18
+              },
+              "comments" : {
+              "count" : 0
+              },
+              "updated_time" : "2012-07-19T00:04:25+0000"
+              },
+              {
+              "id" : "693372074_449403495081517",
+              "actions" : [
+                           {
+                           "link" : "http:\/\/www.facebook.com\/693372074\/posts\/449403495081517",
+                           "name" : "Comment"
+                           },
+                           {
+                           "link" : "http:\/\/www.facebook.com\/693372074\/posts\/449403495081517",
+                           "name" : "Like"
+                           }
+                           ],
+              "updated_time" : "2012-07-19T00:01:29+0000",
+              "link" : "http:\/\/itpro.nikkeibp.co.jp\/article\/NEWS\/20120718\/409867\/",
+              "type" : "link",
+              "description" : "　ブログ・コンテンツ管理システム（CMS）の大手ベンダーであるシックス・アパート（Six Apart）は2012年7月18日、CMSの最新版である「Movable Type 5.2」を発表した。同日から、オンラインでベータ版の試用サービスを始める。正式販売開始は9月を予定している。",
+              "message_tags" : {
+              "13" : [
+                      {
+                      "type" : "page",
+                      "id" : "6060549294",
+                      "name" : "Movable Type",
+                      "length" : 12,
+                      "offset" : 13
+                      }
+                      ]
+              },
+              "caption" : "itpro.nikkeibp.co.jp",
+              "icon" : "https:\/\/s-static.ak.facebook.com\/rsrc.php\/v2\/yD\/r\/aS8ecmYRys0.gif",
+              "message" : "Nginxに新たに対応したMovable Typeですが、Apacheなどでも今まで通り使えます! 現在、ベータ版を独立した仮想マシン上で利用できるサービス（招待制）を実施中です → https:\/\/www.sixapart.jp\/inquiry\/movabletype\/52beta.html",
+              "from" : {
+              "id" : "693372074",
+              "name" : "Nobuhiro Seki"
+              },
+              "picture" : "https:\/\/fbexternal-a.akamaihd.net\/safe_image.php?d=AQAUB19zsLnsJb1V&w=90&h=90&url=http0X1.71A7001419B5FP-10030.0000000.000000itpro.nikkeibp.co.jp-1.993645article0.000000NEWS-1.993294201207182.007817409867-1.993431top.jpg",
+              "name" : "シックス・アパートがブログ管理ソフト新版、ロシア製nginxで高速化",
+              "created_time" : "2012-07-19T00:01:29+0000",
+              "likes" : {
+              "data" : [
+                        {
+                        "id" : "614508116",
+                        "name" : "Noriaki Takayama"
+                        },
+                        {
+                        "id" : "100001705210458",
+                        "name" : "Kazumi Hirooka"
+                        },
+                        {
+                        "id" : "615418685",
+                        "name" : "Hiroshi Yamato"
+                        }
+                        ],
+              "count" : 3
+              },
+              "comments" : {
+              "count" : 0
+              },
+              "to" : {
+              "data" : [
+                        {
+                        "id" : "6060549294",
+                        "name" : "Movable Type",
+                        "category" : "Product\/service"
+                        }
+                        ]
+              }
+              },
+              {
+              "from" : {
+              "id" : "748464234",
+              "name" : "Taro Matsumura"
+              },
+              "id" : "748464234_10151029390159235",
+              "message" : "あと、「塩ミネラルフリスク」とかがあったらぴったりなんじゃないか、と\346\200\235ったけど、それって梅干しタブレットのことだから、「梅ぼし 純」でいいじゃん、と。あとで買っておこう。",
+              "actions" : [
+                           {
+                           "link" : "http:\/\/www.facebook.com\/748464234\/posts\/10151029390159235",
+                           "name" : "Comment"
+                           },
+                           {
+                           "link" : "http:\/\/www.facebook.com\/748464234\/posts\/10151029390159235",
+                           "name" : "Like"
+                           }
+                           ],
+              "type" : "status",
+              "application" : {
+              "namespace" : "fbiphone",
+              "id" : "6628568379",
+              "name" : "Facebook for iPhone"
+              },
+              "created_time" : "2012-07-19T00:00:43+0000",
+              "comments" : {
+              "count" : 0
+              },
+              "likes" : {
+              "data" : [
+                        {
+                        "id" : "1456954008",
+                        "name" : "Kazue Fujita"
+                        }
+                        ],
+              "count" : 1
+              },
+              "updated_time" : "2012-07-19T00:00:43+0000"
+              },
+              {
+              "from" : {
+              "id" : "1666865675",
+              "name" : "Yoshihito Kuranuki"
+              },
+              "id" : "1666865675_3102058924895",
+              "message" : "社会や会社などの人の集団、組織の考え方や意識を変える戦略。現場を水平に変えていくのは無理で、あくまでボトムアップというトップに向けて変えていき、どこかでトップダウンになることで全体が変わる、というイメージ。",
+              "icon" : "https:\/\/fbcdn-photos-a.akamaihd.net\/photos-ak-snc7\/v85006\/23\/2231777543\/app_2_2231777543_2016407632.gif",
+              "actions" : [
+                           {
+                           "link" : "http:\/\/www.facebook.com\/1666865675\/posts\/3102058924895",
+                           "name" : "Comment"
+                           },
+                           {
+                           "link" : "http:\/\/www.facebook.com\/1666865675\/posts\/3102058924895",
+                           "name" : "Like"
+                           },
+                           {
+                           "link" : "https:\/\/twitter.com\/kuranuki?utm_source=fb&utm_medium=fb&utm_campaign=kuranuki&utm_content=225740433882505216",
+                           "name" : "@kuranuki on Twitter"
+                           }
+                           ],
+              "type" : "status",
+              "application" : {
+              "namespace" : "twitter",
+              "id" : "2231777543",
+              "name" : "Twitter"
+              },
+              "created_time" : "2012-07-18T23:54:48+0000",
+              "likes" : {
+              "data" : [
+                        {
+                        "id" : "100001121385301",
+                        "name" : "Ryutaro Yoshiba"
+                        },
+                        {
+                        "id" : "100001318992278",
+                        "name" : "Akiko Kosaka"
+                        },
+                        {
+                        "id" : "1336247985",
+                        "name" : "Eiichi Hayashi"
+                        }
+                        ],
+              "count" : 3
+              },
+              "updated_time" : "2012-07-19T00:21:21+0000",
+              "comments" : {
+              "data" : [
+                        {
+                        "from" : {
+                        "id" : "1666865675",
+                        "name" : "Yoshihito Kuranuki"
+                        },
+                        "id" : "1666865675_3102058924895_3239617",
+                        "message" : "会社はわかるが、社会におけるトップダウンのトップがどこかはまだわかってない。",
+                        "created_time" : "2012-07-19T00:21:21+0000"
+                        }
+                        ],
+              "count" : 1
+              }
+              },
+              {
+              "id" : "1207132634_4304018557810",
+              "actions" : [
+                           {
+                           "link" : "http:\/\/www.facebook.com\/1207132634\/posts\/4304018557810",
+                           "name" : "Comment"
+                           },
+                           {
+                           "link" : "http:\/\/www.facebook.com\/1207132634\/posts\/4304018557810",
+                           "name" : "Like"
+                           }
+                           ],
+              "link" : "http:\/\/www.facebook.com\/photo.php?fbid=4304018397806&set=a.1032863820986.2004979.1207132634&type=1&relevant_count=1",
+              "type" : "photo",
+              "application" : {
+              "namespace" : "fbandroid",
+              "id" : "350685531728",
+              "name" : "Facebook for Android"
+              },
+              "object_id" : "4304018397806",
+              "icon" : "https:\/\/s-static.ak.facebook.com\/rsrc.php\/v2\/yx\/r\/og8V99JVf8G.gif",
+              "place" : {
+              "id" : "144724345564701",
+              "name" : "Romy's",
+              "location" : {
+              "city" : "Kahuku",
+              "state" : "HI",
+              "latitude" : 21.684236298616,
+              "country" : "United States",
+              "longitude" : -157.96085103232
+              }
+              },
+              "message" : "昼飯なり。海老～ウマソー！",
+              "from" : {
+              "id" : "1207132634",
+              "name" : "Daichi Ueura"
+              },
+              "picture" : "https:\/\/fbcdn-photos-a.akamaihd.net\/hphotos-ak-prn1\/523691_4304018397806_1372885462_s.jpg",
+              "comments" : {
+              "count" : 0
+              },
+              "created_time" : "2012-07-18T23:51:03+0000",
+              "likes" : {
+              "data" : [
+                        {
+                        "id" : "100001874546281",
+                        "name" : "Kazutoshi Shirai"
+                        },
+                        {
+                        "id" : "1700580462",
+                        "name" : "Tetsu Eto"
+                        },
+                        {
+                        "id" : "1197466191",
+                        "name" : "北條詠子"
+                        },
+                        {
+                        "id" : "1519325481",
+                        "name" : "Hironori Suzuki"
+                        }
+                        ],
+              "count" : 6
+              },
+              "updated_time" : "2012-07-18T23:51:03+0000"
+              },
+              {
+              "from" : {
+              "id" : "1181181213",
+              "name" : "Sakakibara Kentaro"
+              },
+              "id" : "1181181213_4237607416708",
+              "message" : "現在78名参加中！今日のサロンは、約束守れる人と、守れない人の違いとは？榊原健太郎のサロン「Samurai Salon」 -http:\/\/synapse.am\/contents\/monthly\/sakakibara.kentaro",
+              "icon" : "https:\/\/fbcdn-photos-a.akamaihd.net\/photos-ak-snc7\/v85006\/23\/2231777543\/app_2_2231777543_2016407632.gif",
+              "actions" : [
+                           {
+                           "link" : "http:\/\/www.facebook.com\/1181181213\/posts\/4237607416708",
+                           "name" : "Comment"
+                           },
+                           {
+                           "link" : "http:\/\/www.facebook.com\/1181181213\/posts\/4237607416708",
+                           "name" : "Like"
+                           },
+                           {
+                           "link" : "https:\/\/twitter.com\/samurai_ken?utm_source=fb&utm_medium=fb&utm_campaign=samurai_ken&utm_content=225739069647360001",
+                           "name" : "@samurai_ken on Twitter"
+                           }
+                           ],
+              "type" : "status",
+              "application" : {
+              "namespace" : "twitter",
+              "id" : "2231777543",
+              "name" : "Twitter"
+              },
+              "created_time" : "2012-07-18T23:49:23+0000",
+              "likes" : {
+              "data" : [
+                        {
+                        "id" : "100000669943264",
+                        "name" : "Tetsuro Kokumai"
+                        }
+                        ],
+              "count" : 1
+              },
+              "updated_time" : "2012-07-18T23:52:44+0000",
+              "comments" : {
+              "data" : [
+                        {
+                        "from" : {
+                        "id" : "100000627186477",
+                        "name" : "いしみ せいや"
+                        },
+                        "id" : "1181181213_4237607416708_5091678",
+                        "message" : "出会いを大切にしようとする人、自分に力が無いと自覚してる人。",
+                        "created_time" : "2012-07-18T23:52:44+0000"
+                        }
+                        ],
+              "count" : 1
+              }
+              },
+              {
+              "id" : "13930675_298992570199413",
+              "actions" : [
+                           {
+                           "link" : "http:\/\/www.facebook.com\/13930675\/posts\/298992570199413",
+                           "name" : "Comment"
+                           },
+                           {
+                           "link" : "http:\/\/www.facebook.com\/13930675\/posts\/298992570199413",
+                           "name" : "Like"
+                           }
+                           ],
+              "link" : "http:\/\/www.facebook.com\/BrettFavre",
+              "type" : "link",
+              "icon" : "https:\/\/s-static.ak.facebook.com\/rsrc.php\/v2\/yD\/r\/aS8ecmYRys0.gif",
+              "message" : "He may have retired from the NFL, but look who just joined Facebook...",
+              "from" : {
+              "id" : "13930675",
+              "name" : "Vadim Lavrusik"
+              },
+              "picture" : "https:\/\/fbcdn-profile-a.akamaihd.net\/hprofile-ak-ash2\/274603_100004081602168_897315578_s.jpg",
+              "name" : "Brett Favre",
+              "created_time" : "2012-07-18T23:48:40+0000",
+              "likes" : {
+              "data" : [
+                        {
+                        "id" : "1156582101",
+                        "name" : "Michael Marsh"
+                        },
+                        {
+                        "id" : "1600880",
+                        "name" : "Anna Rupani"
+                        },
+                        {
+                        "id" : "100003436916503",
+                        "name" : "Luciano Turquetti"
+                        },
+                        {
+                        "id" : "100003990814839",
+                        "name" : "Netasha Phillip"
+                        }
+                        ],
+              "count" : 25
+              },
+              "comments" : {
+              "data" : [
+                        {
+                        "from" : {
+                        "id" : "663492805",
+                        "name" : "Anthony Ryder"
+                        },
+                        "id" : "13930675_298992570199413_1383466",
+                        "message" : "speaking of: is Anthony W. on facebook?",
+                        "created_time" : "2012-07-19T00:04:34+0000"
+                        },
+                        {
+                        "from" : {
+                        "id" : "1446008252",
+                        "name" : "Pamela Scoggins"
+                        },
+                        "id" : "13930675_298992570199413_1383492",
+                        "message" : "Is this for real?",
+                        "created_time" : "2012-07-19T00:21:49+0000"
+                        }
+                        ],
+              "count" : 12
+              },
+              "updated_time" : "2012-07-19T00:21:49+0000"
+              },
+              {
+              "id" : "1666865675_3101990723190",
+              "actions" : [
+                           {
+                           "link" : "http:\/\/www.facebook.com\/1666865675\/posts\/3101990723190",
+                           "name" : "Comment"
+                           },
+                           {
+                           "link" : "http:\/\/www.facebook.com\/1666865675\/posts\/3101990723190",
+                           "name" : "Like"
+                           },
+                           {
+                           "link" : "https:\/\/twitter.com\/kuranuki?utm_source=fb&utm_medium=fb&utm_campaign=kuranuki&utm_content=225730917862354944",
+                           "name" : "@kuranuki on Twitter"
+                           }
+                           ],
+              "link" : "http:\/\/t.co\/0xcyu33r",
+              "type" : "link",
+              "application" : {
+              "namespace" : "twitter",
+              "id" : "2231777543",
+              "name" : "Twitter"
+              },
+              "caption" : "bit.ly\/OnCaZ9",
+              "icon" : "https:\/\/fbcdn-photos-a.akamaihd.net\/photos-ak-snc7\/v85006\/23\/2231777543\/app_2_2231777543_2016407632.gif",
+              "message" : "UltimateAgileStoriesという同人誌？に「はじめの一歩を踏み出そう」というタイトルで寄稿しました。 Iteration2執筆者・タイトル一覧 http:\/\/t.co\/0xcyu33r",
+              "from" : {
+              "id" : "1666865675",
+              "name" : "Yoshihito Kuranuki"
+              },
+              "name" : "Iteration2執筆者・タイトル一覧",
+              "comments" : {
+              "count" : 0
+              },
+              "created_time" : "2012-07-18T23:17:00+0000",
+              "likes" : {
+              "data" : [
+                        {
+                        "id" : "717331732",
+                        "name" : "Teiji Nakano"
+                        },
+                        {
+                        "id" : "100001121385301",
+                        "name" : "Ryutaro Yoshiba"
+                        },
+                        {
+                        "id" : "100001577539083",
+                        "name" : "Wakako Kitamura"
+                        },
+                        {
+                        "id" : "100002209651479",
+                        "name" : "Hidemichi Nagamatsu"
+                        }
+                        ],
+              "count" : 7
+              },
+              "updated_time" : "2012-07-18T23:17:00+0000"
+              }
+              ],
+    "paging" : {
+        "previous" : "https:\/\/graph.facebook.com\/100001720883274\/home?value=1&format=json&access_token=BAAGPdtWcoUIBACiqfOsEk5mTNWdyIble5rbaUmZCCwPRite17DIqm9oZCZBGCRLqQRjy8lacZBoqw6sFdNUFa3x71pSoiFXrT85kG0ePmVF0xMpZAP16IxCWrz559BcIZCAbvzRUptg2MivhK9wNUA&limit=25&since=1342662400&__previous=1",
+        "next" : "https:\/\/graph.facebook.com\/100001720883274\/home?value=1&format=json&access_token=BAAGPdtWcoUIBACiqfOsEk5mTNWdyIble5rbaUmZCCwPRite17DIqm9oZCZBGCRLqQRjy8lacZBoqw6sFdNUFa3x71pSoiFXrT85kG0ePmVF0xMpZAP16IxCWrz559BcIZCAbvzRUptg2MivhK9wNUA&limit=25&until=1342653419"
+    }
+}

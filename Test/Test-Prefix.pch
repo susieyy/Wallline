@@ -1,0 +1,20 @@
+
+//
+// Prefix header for all source files of the 'Test' target in the 'Test' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+#endif
+
+#import "NSSubscriptingSupport.h"
+#import "SSGlobal.h"
+#import "SSBlockTypes.h"
+
+#import "NS+SSAddtions.h"
+#import "NSDate+SSAdditions.h"
+#import "NSString+PDRegex.h"
+#import "UIApplication+SSAddtions.h"
+
+#import "NanoStore.h"

@@ -1,0 +1,125 @@
+//
+// Prefix header for all source files of the 'Wallline' target in the 'Wallline' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_4_0
+#warning "This project uses features only available in iOS SDK 4.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import "FacebookSDK.h"
+#endif
+
+#import "NSSubscriptingSupport.h"
+
+#import "SSGlobal.h"
+
+// NS + SSAddtions
+#import "NS+SSAddtions.h"
+#import "NSDate+SSAdditions.h"
+#import "NSString+PDRegex.h"
+#import "NSString+CryptoAddtions.h"
+
+
+// UI + SSAddtions
+#import "UI+SSAddtions.h" 
+#import "UIImage+SSNoAlpha.h"
+#import "NSString+HREF.h"
+#import "SSStatsBarOverlay.h"
+#import "UIImage+Tint.h"
+#import "UITableViewCell+SSAdditions.h"
+
+// Pods
+#import "PrettyKit.h"
+#import "JSON.h"
+#import "MBProgressHUD.h"
+#import "RTLabel.h"
+#import "UIViewController+KNSemiModal.h"
+#import "WBErrorNoticeView.h"
+#import "NanoStore.h"
+
+
+///////////////////////////////////////////////////////////////////////////////
+// Facebook
+#import "FBConnect.h"
+#import "FBRequestConnection+SUSIEYY.h"
+static NSString *kFacebookAPIKey = @"xxxxxx";
+static NSString *kFacebookSecretKey = @"xxxxxx"; 
+
+
+
+#define APP_NAME @"Fline"
+#define FACEBOOK_REQUEST_TIMEOUT 30
+
+#define COLOR_FOR_SELECT HEXCOLOR(0x0088FF)
+#define COLOR_FOR_BUTTON HEXCOLOR(0xDDDDDD)
+
+#define COLOR_FOR_BACKGROUND_TABLE HEXCOLOR(0x232937)
+#define COLOR_FOR_BACKGROUND_DARK_TABLE HEXCOLOR(0x1A2230)
+
+#define COLOR_FOR_BACKGROUND HEXCOLOR(0xB6C1D9)
+#define COLOR_FOR_BACKGROUND_SELECT HEXCOLOR(0xA6B1C9)
+#define COLOR_FOR_BACKGROUND_BOTTOM HEXCOLOR(0xE8EAF1)
+#define COLOR_FOR_BACKGROUND_IMAGE HEXCOLOR(0x413D3D)
+
+#define COLOR_FOR_CONTENT HEXCOLOR(0xFFFFFF)
+
+#define COLOR_FOR_HIGHLIGHT HEXCOLOR(0x2B4584)
+#define COLOR_FOR_TEXT_BLUE HEXCOLOR(0x2b4584)
+#define COLOR_FOR_TEXT_BLUE_SELECT HEXCOLOR(0x4b65A4)
+
+#define COLOR_FOR_TEXT_LINK HEXCOLOR(0x2B4584)
+#define COLOR_FOR_TEXT_LINK_HIGHLIGHTED HEXCOLOR(0x994584)
+
+#define COLOR_FOR_TEXT_BLACK HEXCOLOR(0x413D3D)
+
+#define BUTTON_DEFAULT_SIZE 28.0f
+#define BUTTON_DEFAULT_TOP 2.0f
+#define OFFSET_MARGIN 6.0f
+
+///////////////////////////////////////////////////////////////////////////////
+// NSNotification
+
+// Login / Logout
+static NSString * const NFDidLogin = @"NFDidLogin";
+static NSString * const NFDidLogout = @"NFDidLogout";
+
+//
+static NSString * const NFDoTimeLineURL = @"NFDoTimeLineURL";
+static NSString * const NFDoReHeightTimeLineCell = @"NFDoReHeightTimeLineCell";
+static NSString * const NFDoShowSettingViewController = @"NFDoShowSettingViewController";
+static NSString * const NFDoShowCommentViewController = @"NFDoShowCommentViewController";
+
+static NSString * const NFCloseVCNotificationViewController = @"NFCloseVCNotificationViewController";
+
+
+#import "MMCacheManager.h"
+#import "MMImageManager.h"
+
+// Models
+#import "MMFacebookManager.h"
+#import "MMStatusModel.h"
+#import "MMNotificationModel.h"
+#import "MMFQLNotificationModel.h"
+#import "MMFriendModel.h"
+#import "MMEventModel.h"
+#import "MMPageModel.h"
+#import "MMMeModel.h"
+#import "MMGroupModel.h"
+#import "MMStreamModel.h"
+#import "MMFriendRequestModel.h"
+#import "MMPermissionModel.h"
+#import "MMApplicationModel.h"
+#import "MMNameManager.h"
+#import "MMPlaceModel.h"
+#import "MMPhotoModel.h"
+
+#import "MMStackModel.h"
+
+
+
+#import "MMRequestManager.h"
